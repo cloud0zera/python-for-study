@@ -1,0 +1,10 @@
+{
+    "ApplicationName": "CodeStack - The Future is Here",
+    "ApplicationID": "2024000108",
+    "ApplicationVersion": "1.0.010",
+    "MariaDBAcess": "root",
+    "DatabaseServer": "localhost",
+    "DatabasePort": 3306,
+    "DatabasePass": "32512302",
+    "Database": "codestack"
+}
